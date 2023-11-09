@@ -1,8 +1,8 @@
-# Heading
+# About me
 <h1 align="center">Hello</h1>
 
 I am a 1st sem CS student
-## Heading2
+## Again about me
 - I like cs, web dev and all, and cybersec and all little bit
 
 
